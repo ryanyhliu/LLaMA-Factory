@@ -550,5 +550,14 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "ml_knowledgecn": {
+    "file_name": "ml_knowledgecn.json"
+  },
+  "ml_loradatacn": {
+    "file_name": "ml_loradatacn.json"
+  },
+  "ml_selfcn": {
+    "file_name": "ml_selfcn.json"
   }
 }
