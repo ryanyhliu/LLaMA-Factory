@@ -30,3 +30,5 @@ json.dump(args, open("train_llama3.json", "w", encoding="utf-8"), indent=2)
 # %cd /content/LLaMA-Factory/
 
 # !llamafactory-cli train train_llama3.json
+
+# tensorboard --logdir=/home/ryan/Desktop/LLaMA/LLaMA-Factory/tensorLogs
